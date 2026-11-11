@@ -1,106 +1,175 @@
-<h1 align="center">Hi, I'm Abhilash T.A 👋</h1>
-<h3 align="center">Cloud Engineer | AWS • Docker • Terraform • CI/CD</h3>
+<!-- ============ HEADER ============ -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+secure+AWS+infrastructure;Automating+with+Python+%26+Bash;Learning+DevOps+by+shipping+real+projects" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:00f5ff,100:7b2ff7&height=240&section=header&text=ABHILASH%20T.A&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%E2%9A%A1%20CLOUD%20ENGINEER%20%7C%20AWS%20%7C%20DEVOPS%20%E2%9A%A1&descAlignY=62&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhilash-t-anthony-74a529260"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:Abhilashantony17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&height=50&lines=%3E+Architecting+secure+AWS+infrastructure;%3E+Automating+everything+with+Python+%26+Bash;%3E+Shipping+with+Docker+%2B+Terraform+%2B+CI%2FCD;%3E+Open+to+Cloud+%2F+Junior+DevOps+roles" alt="typing"/>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<a href="https://www.linkedin.com/in/abhilash-t-anthony-74a529260"><img src="https://img.shields.io/badge/LINKEDIN-00F5FF?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117"/></a>
+<a href="mailto:Abhilashantony17@gmail.com"><img src="https://img.shields.io/badge/EMAIL-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-39FF14?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/LOCATION-MANGALORE_%7C_BANGALORE_%7C_REMOTE-FF00E5?style=for-the-badge&labelColor=0d1117"/>
 
-- 🎓 BCA graduate (Mangalore University, 2026)
-- ☁️ Hands-on with AWS: VPC design, IAM security, S3 hosting and serverless automation
-- 🔧 Working with Docker, Terraform, GitHub Actions, Linux, Python and Bash
-- 📍 Based in Mangalore, Karnataka, open to Bangalore and remote roles
-- 🎯 Looking for a **Cloud Engineer / Junior DevOps** role
+</div>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<!-- ============ TERMINAL ============ -->
+```bash
+abhilash@cloud:~$ whoami
+> Cloud Engineer | BCA Graduate (2026) | AWS-focused builder
 
-**Cloud & DevOps**
+abhilash@cloud:~$ cat skills.conf
+> cloud      = ["AWS", "VPC", "IAM", "S3", "EC2", "Lambda", "CloudFront"]
+> devops     = ["Docker", "Terraform", "GitHub Actions", "CloudFormation"]
+> scripting  = ["Python", "Bash", "Linux"]
+> mindset    = "least-privilege, automate-everything, build-in-public"
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+abhilash@cloud:~$ cat mission.txt
+> Build, secure and automate cloud infrastructure.
+> Learn fast. Ship real AWS projects.
 
-**Scripting, OS & Servers**
+abhilash@cloud:~$ status --now
+> [OK] Seeking Cloud Engineer / Junior DevOps opportunities
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br/>
 
-**AWS Services I've worked with**
+<!-- ============ TECH STACK ============ -->
+<h2 align="center">⚙️ TECH ARSENAL</h2>
 
-| Area | Services |
-|------|----------|
-| Compute | EC2, Auto Scaling, ELB, Elastic Beanstalk, Lambda |
-| Networking | VPC, Subnets, NAT/Internet Gateway, NACLs, Security Groups, VPC Peering, Transit Gateway, Route 53, CloudFront |
-| Storage | S3, EBS, EFS, AWS Backup |
-| Security | IAM, STS, KMS, ACM, GuardDuty, Inspector, Organizations |
-| Monitoring | CloudWatch, CloudTrail, Systems Manager |
-| Integration | EventBridge, SNS, SQS, SES |
-| Databases | RDS, DynamoDB, MongoDB |
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,githubactions,python,bash,linux,nginx,git,github&theme=dark&perline=10" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,firebase,apache&theme=dark&perline=10" />
 
-## 🚀 Featured Projects
+</div>
 
-### 🌐 Custom VPC with Public & Private Subnets
-2 public + 2 private subnets across two AZs, bastion host access, NAT Gateway, NACLs and VPC peering.
-`VPC` `EC2` `NAT Gateway` `NACL`
+<br/>
 
-### 🔐 Static Website Hosting with Least-Privilege Access
-S3 static site with a tight bucket policy, versioning, CORS, CloudFront, ACM HTTPS and a Route 53 custom domain.
-`S3` `CloudFront` `ACM` `Route 53` `IAM`
+<div align="center">
+
+| 🌩️ DOMAIN | ⚡ TECHNOLOGIES |
+|:---|:---|
+| **Compute** | EC2 · Auto Scaling · ELB · Elastic Beanstalk · Lambda |
+| **Networking** | VPC · NAT/IGW · NACLs · Security Groups · Peering · Transit Gateway · Route 53 · CloudFront |
+| **Storage** | S3 · EBS · EFS · AWS Backup |
+| **Security** | IAM · STS · KMS · ACM · GuardDuty · Inspector · Organizations |
+| **Monitoring** | CloudWatch · CloudTrail · Systems Manager |
+| **Integration** | EventBridge · SNS · SQS · SES |
+| **Databases** | RDS · DynamoDB · MongoDB |
+
+</div>
+
+<br/>
+
+<!-- ============ ARCHITECTURE ============ -->
+<h2 align="center">🛰️ FEATURED ARCHITECTURE</h2>
+<p align="center"><i>Custom VPC: public/private tiers with bastion + NAT</i></p>
+
+```mermaid
+flowchart TB
+    Internet((🌐 Internet)) --> IGW[Internet Gateway]
+    IGW --> PUB
+    subgraph VPC["☁️ Custom VPC"]
+        subgraph PUB["Public Subnets (Web Tier) x2 AZ"]
+            BASTION[🛡️ Bastion Host]
+            NAT[NAT Gateway]
+        end
+        subgraph PRIV["Private Subnets (App Tier) x2 AZ"]
+            APP1[EC2 App 1]
+            APP2[EC2 App 2]
+        end
+        BASTION -- SSH --> APP1
+        BASTION -- SSH --> APP2
+        APP1 -. updates .-> NAT
+        APP2 -. updates .-> NAT
+    end
+    NAT --> IGW
+```
+
+<br/>
+
+<!-- ============ PROJECTS ============ -->
+<h2 align="center">🚀 MISSION LOG: PROJECTS</h2>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Custom VPC Architecture
+2 public + 2 private subnets across 2 AZs. Bastion host access, NAT Gateway, NACLs and VPC peering.
+
+![](https://img.shields.io/badge/VPC-00F5FF?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/EC2-00F5FF?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/NAT-00F5FF?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/NACL-00F5FF?style=flat-square&labelColor=0d1117)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Secure Static Website
+S3 hosting with least-privilege bucket policy, versioning, CORS, CloudFront, ACM HTTPS and Route 53 custom domain.
+
+![](https://img.shields.io/badge/S3-7B2FF7?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/CloudFront-7B2FF7?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/ACM-7B2FF7?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Route53-7B2FF7?style=flat-square&labelColor=0d1117)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛡️ IAM Security Lab
-Least-privilege policies, root account hardening with MFA, and cross-account access using STS temporary credentials.
-`IAM` `MFA` `STS` `Policy Simulator`
+Least-privilege policies, root hardening with MFA, cross-account access using STS temporary credentials.
 
-### ⚡ Serverless EC2 Start/Stop Automation
-Lambda function triggered by EventBridge schedules to start and stop EC2 instances, with a scoped execution role and CloudWatch Logs.
-`Lambda` `EventBridge` `CloudWatch`
+![](https://img.shields.io/badge/IAM-FF00E5?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/MFA-FF00E5?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/STS-FF00E5?style=flat-square&labelColor=0d1117)
 
-### 📦 Elastic Beanstalk App Deployment
-Sample app deployed on managed Elastic Beanstalk environments with scaling and load balancing.
-`Elastic Beanstalk`
+</td>
+<td width="50%" valign="top">
 
-> 🔗 Link each project title to its repo once you've pushed it, e.g. `[Custom VPC](https://github.com/Incryster/your-repo)`
+### ⚡ Serverless EC2 Scheduler
+Lambda + EventBridge to automatically start/stop EC2 on a schedule. Scoped execution role, CloudWatch Logs monitoring.
 
----
+![](https://img.shields.io/badge/Lambda-39FF14?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/EventBridge-39FF14?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/CloudWatch-39FF14?style=flat-square&labelColor=0d1117)
 
-## 📊 GitHub Stats
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Incryster&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Incryster&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Incryster&theme=tokyonight&hide_border=true" />
-</p>
+### 📦 Elastic Beanstalk Deployment
+Sample app on managed environments with scaling and load balancing.
 
----
+</div>
 
-## 🌱 Currently
+<br/>
 
-- Building more AWS projects with **Terraform** and **GitHub Actions** pipelines
-- Containerising apps with **Docker**
-- Preparing for AWS certifications
+<!-- ============ CURRENTLY ============ -->
+<h2 align="center">🔭 CURRENT FOCUS</h2>
 
----
+<div align="center">
 
-<p align="center">
-  <i>Open to opportunities. Let's connect! 🤝</i>
-</p>
+`🏗️ Terraform IaC` &nbsp; `🐳 Dockerised apps` &nbsp; `🔁 GitHub Actions CI/CD` &nbsp; `☁️ More real-world AWS builds`
+
+</div>
+
+<br/>
+
+<!-- ============ FOOTER ============ -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=500&lines=Let's+build+something+in+the+cloud+%E2%98%81%EF%B8%8F" alt="footer typing"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,60:00f5ff,100:0d1117&height=120&section=footer" width="100%"/>
+
+</div>
